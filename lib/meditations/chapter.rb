@@ -12,8 +12,20 @@ module Meditations
       end.sort_by(&:position)
     end
 
+    def self.find(position)
+      load_all.select { |c| c.position == position.to_i }.first
+    end
+
     def initialize(contents)
       @data = OpenStruct.new(contents)
+    end
+
+    def opinions
+      Array(@data.opinions)
+    end
+
+    def resources
+      Array(@data.resources)
     end
 
     def method_missing(method_sym, *arguments, &block)

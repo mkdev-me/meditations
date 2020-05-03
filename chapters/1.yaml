@@ -7,9 +7,21 @@ body: |
 
   Медитации о программировании - пополняемая коллекция мыслей, которые будут наиболее полезны новичкам, но в которых кристаллизуются размышления и более опытных разработчиков. 
 
-  Первый набор медитаций был собран основателем mkdev Кириллом Ширинкиным.
+  Первый набор медитаций был собран основателем mkdev [Кириллом Ширинкиным](https://mkdev.me/mentors/fodoj).
 
   Чтобы сделать их более многогранными, к медитациям оставили свои мнения следующие менторы mkdev:
+
+  - [Vladas Tamošaitis](https://mkdev.me/mentors/Vladas)
+  - [Алексей Курылёв](https://mkdev.me/mentors/chepe4pi)
+  - [Алимжан Абуов](https://mkdev.me/mentors/alimzhan)
+  - [Антон Агеев](https://mkdev.me/mentors/aya-soft)
+  - [Борис Стрельников](https://mkdev.me/mentors/risentveber)
+  - [Влад Баймурзин](https://mkdev.me/mentors/baimurzin)
+  - [Владислав Пасечник](https://mkdev.me/mentors/PasVV)
+  - [Иван Исааев](https://mkdev.me/mentors/isaev)
+  - [Иван Шаматов](https://mkdev.me/mentors/IvanShamatov)
+  - [Михаил Волков](https://mkdev.me/mentors/mvsvolkov)
+  - [Ринат Мухамедгалиев](https://mkdev.me/mentors/rmuhamedgaliev)
 
   Там, где есть необходимость расширить и углубить тему, мы добавили ссылки на полномасштабные статьи.
 
@@ -25,4 +37,4 @@ opinions:
     author: PasVV
 
 resources:
-  - slug: https://mkdev.me/posts/kak-stat-nachinayuschim-veb-razrabotchikom-istoriya-kirilla-shirinkina
+  - slug: kak-stat-nachinayuschim-veb-razrabotchikom-istoriya-kirilla-shirinkina
