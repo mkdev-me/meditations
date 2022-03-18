@@ -1,0 +1,14 @@
+position: 19
+title: Fundamental Knowledge
+body: |
+The number of technologies required or desirable in the field of development exceeds all reasonable limits. The situation is not improved by the regular appearance of new tools, libraries and even programming languages. Sometimes, however, it is better to stop chasing this flow of new products and go back to the basics.
+
+A web developer should take a break from the new frameworks and consolidate the knowledge of networks. The much-hyped interview question, "What happens when you open a page in a browser?" is actually important. The more detailed answer a web developer can provide, the better they know how the "web" works.
+
+It doesn't hurt for the backend developer to know the structure of databases and SQL, even if they use ORM in their daily work. An infrastructure engineer who works with cloud platforms needs to understand how virtualization and networks work.
+
+Most programmers need to know how CPU works and what is the difference between a process and a thread, have a basic understanding of the operating system in use and encryption algorithms.
+
+It also will do any programmer no harm to know the principles of good system building and some basic concepts of software development, which seem to be extremely theoretical, but at some moment can help a lot and raise the whole developer's career to a new level.
+
+Staying up-to-date with of all the innovations is very important. But from time to time you need to pay attention to the lowest and most basic layers of any system and see if you understand how they work.
