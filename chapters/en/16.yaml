@@ -1,0 +1,10 @@
+position: 16
+title: Программист-писатель и программист-редактор
+body: |
+A rule of thumb for good writing: you should strictly separate the writing process from the editing process. As soon as the material is written, the internal editor should be called back in and begin mercilessly rewriting, cutting, and deleting chunks of text. Writing and editing at the same time is one of the basic mistakes that kills creativity and inevitably leads to writer's block.
+
+In a programmer's job, this rule is also applicable.
+
+The first priority is to write working code. It can be awful, it can be slow, it can be buggy, and it can consist of a lot of the same snippets repeated from file to file. It doesn't matter: you should suppress the urge to polish some parts of this code at once and just finish the task.
+
+Then, when the task is technically completed, you should call your internal editor and start refactoring. Remove repetitive code, add tests, catch bugs, remove unnecessary fragments and rewrite the necessary ones so that there is no shame. By the end of the editing stage, the code is ready for peer review and, a little later, for the release.
