@@ -6,14 +6,14 @@ module Meditations
 
     attr_reader :data
 
-    def self.load_all
-      Dir[File.join(File.dirname(__FILE__), "../../chapters/*.yaml")].map do |c|
+    def self.load_all(locale)
+      Dir[File.join(File.dirname(__FILE__), "../../chapters/#{locale}/*.yaml")].map do |c|
         new(YAML.load_file(c))
       end.sort_by(&:position)
     end
 
-    def self.find(position)
-      load_all.select { |c| c.position == position.to_i }.first
+    def self.find(locale, position)
+      load_all(locale).select { |c| c.position == position.to_i }.first
     end
 
     def initialize(contents)
