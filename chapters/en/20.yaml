@@ -1,0 +1,6 @@
+position: 20
+title: Transient Code
+body: |
+The result of a programmer's work is not eternal. Either your code will be rewritten during refactoring or it will be simply removed along with the project's functionality you don't need anymore.
+
+A good programmer will be proactive in rewriting or removing their code whenever possible. If your old code seems good to you, you might be sinking into stagnation.
