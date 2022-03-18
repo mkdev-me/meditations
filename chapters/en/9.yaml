@@ -1,0 +1,35 @@
+position: 9
+title: Searching for a Job
+body: |
+The sooner the person studying programming encounters real life, the better. And the only place to face it is during a full-time job.
+
+There is no law regulating at what point you can start looking for a job as a developer.
+
+But if there was such a law, it would be: "The earlier, the better".
+
+Confidence in your knowledge and skills will not appear until your first successful interview. It probably won't appear after that either, you'll have to get your hands dirty with real tasks to see what you're worth.
+
+Only through going to interviews, doing test assignments and at some happy moment of working on real projects will you have an approximate idea of your level of knowledge and skills.
+
+Therefore you need to start work right now: consider all the jobs for juniors, free and paid internships, look for small freelance projects, look for opportunities to do something worthwhile for the people around you.
+
+opinions:
+  - body: |
+  Passing interviews is its own skill that can only be obtained by passing interviews. I have developed the following practice for myself:
+
+Respond to every possible job offer -> Schedule 10 interviews for one week (one in the morning, one in the evening).
+
+By the second day, you're likely to remember all the answers to all tricky questions you might have, and feel confident in all the next ones; by the third day, you'll already know which companies you like; by the fourth, which offers you can turn down.
+
+The second practice that I think is cool: "Start writing today, and tomorrow you'll have one more day of experience. Think of a client, think of a problem, solve it, put them on your resume. No ideas? Reach out to the community, ask if anyone needs help. Participate in someone else's project for free. For experience.
+
+Finally, remember that not everything depends on you, and sometimes getting an offer is just an absurd coincidence.
+  author: IvanShamatov
+  - body: |
+The job search is primarily about figuring out what to learn. Open a job offer you like, and it says what technology you need to know to get the job. Start studying. Open the wikipedia and read about everything you don't know. Enroll in courses or look for a mentor if something seems difficult.
+
+If you manage to direct the vector of your training from this perspective, then the work will be found more quickly. It is necessary to get away from the mindset that often develops in school or college: "I learn what they give me, pass the exam and forget it". You can imagine that you are going to become a scientist and want to get into a laboratory for scientific research. Show your future colleagues that you're interested in the same things they are, and then they'll say, "Yeah, this person doesn't have much experience, but they are a fan of quantum mechanics too. We'll take them!"
+    author: chepe4pi
+
+resources:
+  - slug: how-not-to-screw-up-the-job-interview
