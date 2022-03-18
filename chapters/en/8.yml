@@ -1,0 +1,29 @@
+position: 8
+title: The Quality vs. The Result Dilemma
+body: |
+In the vast majority of cases, a developer writes code not for themself, but for their employer. An employer, in their turn, creates the product for an end user. So in fact, a developer writes code for an end user, who knows nothing about the code itself. User only cares about the product itself.
+
+But some programmers develop an occupational disease that is perfectionism. And instead of thinking about the final product and users, a programmer starts to write the most reliable, beautiful, stable system, verified to the last symbol. Such a system has only one drawback: it will either never see the light of day, or it will blow all the deadlines and let your employer down.
+
+So you must remember: working code is better than perfect code. Working code can be iteratively improved and perfected. Working code doesn't have to be presented to the public right away. If everything is ready and working, but there are a couple of days left before the deadline, this is the very moment to polish the result of one's work.
+
+At this point, some programmers develop an occupational disease that is sloppiness. They begin to cut corners and make unnecessary compromises with themself in every conceivable and unthinkable way. The result of this approach will work, but it has a chance to embarrass both the programmer and the employer, as well as frustrate the end user and make future code changes as difficult as possible.
+
+The solution to this dilemma lies in balance. A good professional remembers who they write code for. But they also have internal standards and principles that, even under the tightest of time constraints, will prevent them from creating an embarrassing monster.
+
+opinions:
+  - body: |
+  You have to learn to understand business, because business makes money and pays your salary. At the same time, you should not blindly do what business says.
+
+Imagine that you are a doctor and the patient is the business. The patient demands that you stop pointlessly washing your hands in preparation for surgery because it takes too much time. But the doctor doesn't have to comply with such demands. They are a professional; they know the risks of infection hazards better than the patient. It would be unprofessional to submit to the patient's will.
+  author: isaev
+  - body: |
+  When applying for a job, you should definitely ask what the code quality standards are at that company. They may be more demanding or less, may be checked through code reviews or automatically, everyone has it differently. It's good when such standards exist, it's bad when they don't.
+
+If a programmer is working on code alone, it is especially important for them to have their own quality standards, since there is no one to check it. If these standards still don't exist, it is necessary to create them, and there are many articles and books for this purpose.
+
+Such standards can save you from two extremes: keep you from slacking off and limit your perfectionism. Anything that fits under these rules can be accepted as is.
+    author: chepe4pi
+    
+resources:
+  - slug: professional-quirks-systemization-and-the-death-of-creativity
