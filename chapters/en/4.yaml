@@ -1,0 +1,22 @@
+position: 4
+title: You Should Improve Your English
+body: |
+There is no place in the IT industry for people who do not speak English.
+
+First and foremost, you need to be able to read documentation, articles, and books fluently and quickly. No other language has such variety and completeness of information. Any project first and foremost has written documentation in English. At best, a handful of enthusiasts will translate it into another language.
+
+Secondly you need to learn simple and comprehensible text correspondence. The language of communication in the worldwide IT Community is English.
+
+At some point, you will have to learn how to speak it. Or maybe you will not have to, but then you will inevitably flatten the curve of your career.
+
+opinions:
+  - body: |
+  Russian-speaking audience has habr. It can help you in your endeavors. But then you'll realize that a lot of articles and books haven't been translated yet, and English-language conferences are interesting.
+
+Language can also give you a $$$ salary, a job in an international company, and an opportunity to move to another country.
+    author: isaev
+  - body: |
+  Why is English so important, especially for a programmer? Because almost all the action is in the United States. The biggest IT companies in the world: Google, Apple, Amazon, Microsoft, Uber, etc. are all in the United States. Plus, English is an international language. This means that all new technologies and tools are announced in English and their documentation is written in English in the first place.
+
+The examples are not far to seek. You can see that documentation for any command in the terminal is also in English. Almost everything in the IT industry is in English.
+    author: alimzhan
