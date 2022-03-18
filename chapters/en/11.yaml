@@ -1,0 +1,26 @@
+position: 11
+title: Learning New Technologies
+body: |
+Programming cannot be studied only theoretically. When learning a programming language, especially your first one, you must be focused entirely on practice. Reading a reference book with consecutive descriptions of data types and operations on them is pointless.
+
+If you're at the very beginning of learning programming, find an online course built around doing practical assignments. Experience the process of writing and executing code for yourself. But don't linger too long on the made up exercises.
+
+If you already have a rough idea of how to write code, then start coming up with your own hands-on assignments. You should go into programming with a sincere desire to create something with the help of code. The sooner you start to write these programs that you are personally interested in, the faster and stronger you will be drawn into the process.
+
+opinions:
+  - body: |
+  From time to time I meet students who say something along the lines of: "Why fix it, it works anyway, show me the answer and let's move on to the next assignment". But this approach will not make you a programmer. A programmer is someone who is not afraid to make mistakes, and try again to correct the errors that appear.
+
+When solving any new problem, you will make dozens of mistakes, make a few wrong architectural decisions, and step on a million rakes of different lengths. And that's okay when you're learning something new. After all, you can fix everything and improve everything, unlike the architect of some skyscraper that has already been built (say hello to the Leaning Tower of Pisa).
+    author: mvsvolkov
+  - body: |
+  If you have finished training, university or courses on programming and you still do not know "what's next", then this is obviously a big problem, and here's why.
+
+First of all, acquisition of applied skills must go hand in hand with practice. Because the theory will not tell you all the possible options and outcomes of its further application. When we study a system, we then apply it on top of or inside the existing system, which has a lot of its own processes and variants of interaction. It is impossible to take all this into account in theory, but you can see and understand it in practice and extrapolate it to similar problems in the future.
+
+Secondly, a good course or any other training is just a guide and a fellow traveler-advisor on your way, who can advise you what to do in a specific situation and tell you what to do next, but on the way you have to move yourself. If you don't try, study, and apply something yourself, you'll end up in the same place, but with a lot of advice and a map of where to go.
+    author: baimurzin
+
+resources:
+  - slug: how-to-learn-new-technologies-prometheus-example
+  - slug: i-have-finished-programming-courses-what-s-next-five-pieces-of-advice-from-the-mentor
