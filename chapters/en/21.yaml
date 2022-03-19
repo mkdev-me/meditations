@@ -1,25 +1,25 @@
 position: 21
 title: The Impostor Syndrome
 body: |
-Higher education is not an indicator of a good developer. Neither is the opinion of others. Certifications, completed trainings, workshops and courses, past achievements and work experience, all of these separately will not help to overcome the impostor syndrome.
+  Higher education is not an indicator of a good developer. Neither is the opinion of others. Certifications, completed trainings, workshops and courses, past achievements and work experience, all of these separately will not help to overcome the impostor syndrome.
 
-Overly strong impostor syndrome can prevent you from getting a promotion, increasing your income, and simply enjoying your work.
+  Overly strong impostor syndrome can prevent you from getting a promotion, increasing your income, and simply enjoying your work.
 
-Moderate insecurity about your abilities and achievements can be useful. At the very least, the programmer realizes that they do not know something, and that there is still a lot to learn.
+  Moderate insecurity about your abilities and achievements can be useful. At the very least, the programmer realizes that they do not know something, and that there is still a lot to learn.
 
-Total lack of impostor syndrome and self-confidence can make you an impostor.
+  Total lack of impostor syndrome and self-confidence can make you an impostor.
 opinions:
   - body: |
-  Developers are especially prone to impostor syndrome because by general standards they are successful, get paid big salaries, but internally there is no belief that they deserve it. We get higher salaries, they grow faster, and it is easier to learn programming than other professions: doctors, teachers, engineers. That said, we often don't even understand what we're being paid for. "How so? I coded three projects in the last year!" - Yes, but customers pay companies (and through them us) not for code, but for products, on which they want to earn several times more.
+      Developers are especially prone to impostor syndrome because by general standards they are successful, get paid big salaries, but internally there is no belief that they deserve it. We get higher salaries, they grow faster, and it is easier to learn programming than other professions: doctors, teachers, engineers. That said, we often don't even understand what we're being paid for. "How so? I coded three projects in the last year!" - Yes, but customers pay companies (and through them us) not for code, but for products, on which they want to earn several times more.
 
-How many developers are aware of the financial return they bring to the end customer? In technology (outsourcing) companies, programmers often do not see the end result at all: projects do not launch, deadlines are missed, project profitability drops, and startups fail before they even get to 100 users. In large, mature companies with a working and paid product programmers are usually cogs in a well-coordinated mechanism, they work on minor and tertiary functionality, because the key features are ready and there is already a whole department to support them. But small product companies don't have money yet, and the company burns through investor capital.
+      How many developers are aware of the financial return they bring to the end customer? In technology (outsourcing) companies, programmers often do not see the end result at all: projects do not launch, deadlines are missed, project profitability drops, and startups fail before they even get to 100 users. In large, mature companies with a working and paid product programmers are usually cogs in a well-coordinated mechanism, they work on minor and tertiary functionality, because the key features are ready and there is already a whole department to support them. But small product companies don't have money yet, and the company burns through investor capital.
 
-Professional education also does not add confidence. Those who do not have it, feel down because they are self-taught, and those who received it, understand that it did not give anything substantial for the practical work, 80% of the knowledge is still obtained independently and in practice by trial and error. Hence the uncertainty: "Do I know everything I need? Am I in my right place? And am I worthy? But my colleague knows this and that technology, and I do not know".
+      Professional education also does not add confidence. Those who do not have it, feel down because they are self-taught, and those who received it, understand that it did not give anything substantial for the practical work, 80% of the knowledge is still obtained independently and in practice by trial and error. Hence the uncertainty: "Do I know everything I need? Am I in my right place? And am I worthy? But my colleague knows this and that technology, and I do not know".
 
-Tips:
+      Tips:
 
-- Take it for granted that the world is unfair, and people don't get paid in proportion to their knowledge and skills. Yes, miners have hard jobs and get paid little. And footballers have a mountain of gold for kicking a ball. And the developers, on the other hand, make websites.
-- You get what they are prepared to pay you. You do not cheat and do not steal. Nevertheless, you can ask your boss/PM/teamlead questions: are you happy with my work? If not, what exactly do I need to work on?
-- Always try to find out what specific benefits you bring to the table. This will help you understand what you are being paid for and give you some peace of mind. If you are a cog in a large company, understand that even without one cog the mechanism will not work.
-- Keep evolving. So you don't become a real impostor.
-  author: skypluseg
+      - Take it for granted that the world is unfair, and people don't get paid in proportion to their knowledge and skills. Yes, miners have hard jobs and get paid little. And footballers have a mountain of gold for kicking a ball. And the developers, on the other hand, make websites.
+      - You get what they are prepared to pay you. You do not cheat and do not steal. Nevertheless, you can ask your boss/PM/teamlead questions: are you happy with my work? If not, what exactly do I need to work on?
+      - Always try to find out what specific benefits you bring to the table. This will help you understand what you are being paid for and give you some peace of mind. If you are a cog in a large company, understand that even without one cog the mechanism will not work.
+      - Keep evolving. So you don't become a real impostor.
+    author: skypluseg

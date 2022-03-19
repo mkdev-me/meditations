@@ -1,23 +1,22 @@
 position: 2
 title: Choosing Your Development Tools
 body: |
-The developer's main tool is their brain. All the real work happens there. So it doesn't matter which text editor or set of plug-ins for the terminal you use.
+  The developer's main tool is their brain. All the real work happens there. So it doesn't matter which text editor or set of plug-ins for the terminal you use.
 
-Most of the texts a developer writes while working are letters, messages in the work chat and documentation. The code itself is not the most typed thing during the day.
+  Most of the texts a developer writes while working are letters, messages in the work chat and documentation. The code itself is not the most typed thing during the day.
 
-For a beginner, it is enough to take any of the popular editors and immerse themselves in useful activities as fast as possible. A more experienced developer already knows how to work productively.
+  For a beginner, it is enough to take any of the popular editors and immerse themselves in useful activities as fast as possible. A more experienced developer already knows how to work productively.
 
-A good professional is good not for setting up the most productive, automated work environment with beautiful fonts and color schemes, but for getting the job done in the best possible way and on time.
+  A good professional is good not for setting up the most productive, automated work environment with beautiful fonts and color schemes, but for getting the job done in the best possible way and on time.
 
 opinions:
   - body: |
-Tips to help you use any editor really effectively:
+      Tips to help you use any editor really effectively:
 
-Help your eyes not get overworked. Pick a color scheme and font size so they're as comfortable as possible. Don't look at other people, it's your eyes. Be guided by how you feel.
+      Help your eyes not get overworked. Pick a color scheme and font size so they're as comfortable as possible. Don't look at other people, it's your eyes. Be guided by how you feel.
 
-Don't get used to searching for the right text by clicking on files in the navigation bar. Learn to use a full-text search on all the files in your project! Remember, search beats navigation. It will save you a lot of time!
+      Don't get used to searching for the right text by clicking on files in the navigation bar. Learn to use a full-text search on all the files in your project! Remember, search beats navigation. It will save you a lot of time!
     author: aya-soft
-    
+
 resources:
   - slug: how-to-become-a-ror-web-developer-ivan-takarlikov-s-story
-  

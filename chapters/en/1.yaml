@@ -1,51 +1,51 @@
 position: 1
 title: What It Means to Be a Developer
 body: |
-Let's not beat around the bush and get cocky:
+  Let's not beat around the bush and get cocky:
 
-A programmer is anyone who writes code and enjoys it.
+  A programmer is anyone who writes code and enjoys it.
 
-Meditations on Programming is a growing collection of thoughts that will be most useful to beginners, but which crystallize the thoughts of more experienced developers as well.
+  Meditations on Programming is a growing collection of thoughts that will be most useful to beginners, but which crystallize the thoughts of more experienced developers as well.
 
-The first set of meditations was assembled by mkdev founder Kirill Shirinkin.
+  The first set of meditations was assembled by mkdev founder Kirill Shirinkin.
 
-To make them more multifaceted, the following mkdev mentors left their opinions on the meditations:
+  To make them more multifaceted, the following mkdev mentors left their opinions on the meditations:
 
 
-- [Anvar Tuykin](https://mkdev.me/en/mentors/tuykin)
-- [Vladas Tamošaitis](https://mkdev.me/en/mentors/Vladas)
-- Alexey Kurylev
-- Alimzhan Abuov
-- Anton Ageyev
-- [Boris Strelnikov](https://mkdev.me/en/mentors/risentveber)
-- Vlad Baimurzin
-- Vladislav Pasechnik
-- Ivan Isayev
-- [Ivan Shamatov](https://mkdev.me/en/mentors/IvanShamatov)
-- Mikhail Volkov
-- Rinat Mukhamedgaliev
+  - [Anvar Tuykin](https://mkdev.me/en/mentors/tuykin)
+  - [Vladas Tamošaitis](https://mkdev.me/en/mentors/Vladas)
+  - Alexey Kurylev
+  - Alimzhan Abuov
+  - Anton Ageyev
+  - [Boris Strelnikov](https://mkdev.me/en/mentors/risentveber)
+  - Vlad Baimurzin
+  - Vladislav Pasechnik
+  - Ivan Isayev
+  - [Ivan Shamatov](https://mkdev.me/en/mentors/IvanShamatov)
+  - Mikhail Volkov
+  - Rinat Mukhamedgaliev
 
-Where there is a need to expand and deepen the topic, we added links to full-length articles.
+  Where there is a need to expand and deepen the topic, we added links to full-length articles.
 
-In the chaotic, ever-changing and ever-moving world of programming, sometimes you want definite and stable statements. "Meditations on Programming" is our best effort in this, based on over a decade of working in the industry and analyzing countless projects, companies, and people.
+  In the chaotic, ever-changing and ever-moving world of programming, sometimes you want definite and stable statements. "Meditations on Programming" is our best effort in this, based on over a decade of working in the industry and analyzing countless projects, companies, and people.
 
 opinions:
   - body: |
-  Part of the pleasure of programming is produced by external motivation (money, status, praise). But more of the pleasure comes from the constant challenges.
+      Part of the pleasure of programming is produced by external motivation (money, status, praise). But more of the pleasure comes from the constant challenges.
 
-You could say we are hooked on stress. We are constantly looking for more and more challenging tasks for ourselves, to keep our brains working at the limit.
+      You could say we are hooked on stress. We are constantly looking for more and more challenging tasks for ourselves, to keep our brains working at the limit.
 
-When you see a requirement for a "passion for programming" on any job description, that is what is meant.
+      When you see a requirement for a "passion for programming" on any job description, that is what is meant.
     author: PasVV
   - body: |
-  I believe there are three qualities that distinguish a "real programmer": the desire to make the world a better place, curiosity and critical thinking.
+       I believe there are three qualities that distinguish a "real programmer": the desire to make the world a better place, curiosity and critical thinking.
 
-Also programmers really love their job and are eager to do it! Therefore, they don't need to be forced to work. And that's what fundamentally overturned the established hierarchical interaction between a specialist and a manager!
+       Also programmers really love their job and are eager to do it! Therefore, they don't need to be forced to work. And that's what fundamentally overturned the established hierarchical interaction between a specialist and a manager!
 
-What I wrote above is now true for many other fields. But it was programmers who were at the forefront of this revolution.
+       What I wrote above is now true for many other fields. But it was programmers who were at the forefront of this revolution.
     author: tuykin
-    
-    resources:
+
+resources:
   - slug: how-to-become-a-programmer-kirill-shirinkin-s-story
   - slug: how-to-become-a-java-spring-developer-rinat-muhamedgaliev-s-story
   - slug: how-to-become-a-python-developer-aleksey-kurylev-s-story

@@ -1,17 +1,17 @@
 position: 13
 title: Programming & Maths
 body: |
-For a long time there has been an image of programmers as experts in one way or another related to mathematics. Because of this, a newcomer interested in the field of development inevitably asks the question: in addition to programming skills, do I need to acquire a good mathematical base?
+  For a long time there has been an image of programmers as experts in one way or another related to mathematics. Because of this, a newcomer interested in the field of development inevitably asks the question: in addition to programming skills, do I need to acquire a good mathematical base?
 
-Indeed, there are some areas of development in which knowledge of mathematics is welcome. These areas include data analysis and artificial intelligence, which almost entirely revolve around further mathematics. But even there, the mathematical part is often done by people of other professions, analysts and other data experts.
+  Indeed, there are some areas of development in which knowledge of mathematics is welcome. These areas include data analysis and artificial intelligence, which almost entirely revolve around further mathematics. But even there, the mathematical part is often done by people of other professions, analysts and other data experts.
 
-In all other areas no deep mathematical knowledge is needed.
+  In all other areas no deep mathematical knowledge is needed.
 
-If for a particular tricky task you need to rack your brains, this is when you can delve into mathematics. But more often than not, all these problems are already solved and packed for convenient use in libraries for every popular programming language.
+  If for a particular tricky task you need to rack your brains, this is when you can delve into mathematics. But more often than not, all these problems are already solved and packed for convenient use in libraries for every popular programming language.
 
 opinions:
   - body: |
-  I've often heard from others: "You're out there working, writing down your numbers". But a programmer doesn't write numbers, and the better the programmer is, the fewer numbers appear in their code at all. Only words and sentences. And the better the choice of words, the better you are as a programmer. That's why the mathematics is not necessary for a programmer if they don't solve mathematical problems. There is an opinion that I personally hold: a programmer is a philologist.
+      I've often heard from others: "You're out there working, writing down your numbers". But a programmer doesn't write numbers, and the better the programmer is, the fewer numbers appear in their code at all. Only words and sentences. And the better the choice of words, the better you are as a programmer. That's why the mathematics is not necessary for a programmer if they don't solve mathematical problems. There is an opinion that I personally hold: a programmer is a philologist.
 
-But the ability to think logically is a must. This is why programming is often correlated with mathematics, because the latter develops logical thinking. If you love making chains of analogies, or build logic chains, or you are a champion of the Guess Who game, then you may be a true programmer.
+      But the ability to think logically is a must. This is why programming is often correlated with mathematics, because the latter develops logical thinking. If you love making chains of analogies, or build logic chains, or you are a champion of the Guess Who game, then you may be a true programmer.
     author: mvsvolkov

@@ -1,23 +1,23 @@
 position: 5
 title:  You Should Write Documentation
 body: |
-After the code, the second most important product of the developer's work is the documentation.
+  After the code, the second most important product of the developer's work is the documentation.
 
-The entire architecture, from the structure of the network to the interaction of applications with each other, all the technical solutions must be fixed in a place which is easily accessible by the whole team.
+  The entire architecture, from the structure of the network to the interaction of applications with each other, all the technical solutions must be fixed in a place which is easily accessible by the whole team.
 
-Only an amateur developer dares to claim that his code is the documentation. A true professional has an obsessive habit of leaving documentation on everything, not only for his current and future colleagues, but also for themselves from the future.
+  Only an amateur developer dares to claim that his code is the documentation. A true professional has an obsessive habit of leaving documentation on everything, not only for his current and future colleagues, but also for themselves from the future.
 
-Documentation should contain not only descriptions of what there is, but also how to use it and in which direction to develop it.
+  Documentation should contain not only descriptions of what there is, but also how to use it and in which direction to develop it.
 
-Proofs of concept and small experiments that have been conducted but not continued are also worthy of documentation.
+  Proofs of concept and small experiments that have been conducted but not continued are also worthy of documentation.
 
-A company without a documentation culture is always one step away from a loss of technical competence and inevitable slowdown or even degradation of internal technical progress.
+  A company without a documentation culture is always one step away from a loss of technical competence and inevitable slowdown or even degradation of internal technical progress.
 
-A company where it is normal to maintain and expand documentation always has a clear picture of all its processes, decisions made and an understanding of how to move forward.
+  A company where it is normal to maintain and expand documentation always has a clear picture of all its processes, decisions made and an understanding of how to move forward.
 
 opinions:
   - body: |
-I know by experience that it's easier to write a page of code than a page of documentation. You always want it to be smartly written and beautifully designed. And when it doesn't work that well, you want to throw it all away.
+      I know by experience that it's easier to write a page of code than a page of documentation. You always want it to be smartly written and beautifully designed. And when it doesn't work that well, you want to throw it all away.
 
-But the main point of documentation is not to have a nice design, but to be useful with information that will guarantee to save you and your colleagues a lot of time in the future. With a little practice, writing documentation will become a habit and will get much easier.
-  author: aya-soft
+      But the main point of documentation is not to have a nice design, but to be useful with information that will guarantee to save you and your colleagues a lot of time in the future. With a little practice, writing documentation will become a habit and will get much easier.
+    author: aya-soft

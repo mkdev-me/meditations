@@ -1,21 +1,21 @@
 position: 12
 title: Copying vs. Plagiarism
 body: |
-Sometimes it seems that your whole work day consists of searching for the right solutions on the Internet. One problem has already been solved on StackOverflow, another has been described in detail in a good article. The impostor syndrome is starting to set in:
+  Sometimes it seems that your whole work day consists of searching for the right solutions on the Internet. One problem has already been solved on StackOverflow, another has been described in detail in a good article. The impostor syndrome is starting to set in:
 
-> I must be a terrible programmer. I just copy solutions by other people and don't come up with anything myself.
+  > I must be a terrible programmer. I just copy solutions by other people and don't come up with anything myself.
 
-Using off-the-shelf solutions is great. Only a fool would do the work that's already done. There is no reason to beat around the bush for a solution that can just be taken and adapted to your needs.
+  Using off-the-shelf solutions is great. Only a fool would do the work that's already done. There is no reason to beat around the bush for a solution that can just be taken and adapted to your needs.
 
-If people were afraid to use other people's experience and knowledge, no progress would ever happen. We take what already exists and either use it as it is or make it even better. And having made it better, if possible, we give the improved version back to humanity.
+  If people were afraid to use other people's experience and knowledge, no progress would ever happen. We take what already exists and either use it as it is or make it even better. And having made it better, if possible, we give the improved version back to humanity.
 
-But there is one nuance. You should never copy something that you don't fully understand.
+  But there is one nuance. You should never copy something that you don't fully understand.
 
-Scientists base their work on previous discoveries, but do not trust them blindly: they know their essence, understand the laws and principles.
+  Scientists base their work on previous discoveries, but do not trust them blindly: they know their essence, understand the laws and principles.
 
-Engineers, when building new structures, use proven approaches and systems, and are well versed and understand each of them.
+  Engineers, when building new structures, use proven approaches and systems, and are well versed and understand each of them.
 
-Similarly, a programmer has every moral right to use the knowledge already accumulated by mankind. But only if they truly understand what they are using.
+  Similarly, a programmer has every moral right to use the knowledge already accumulated by mankind. But only if they truly understand what they are using.
 
 resources:
   - slug: how-to-understand-the-code-of-the-aliens-and-refactor-properly

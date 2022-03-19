@@ -1,30 +1,30 @@
 position: 7
 title: On Simplicity
 body: |
-Everyone knows that computers think in ones and zeros. Some people even think that programmers are busy just arranging ones and zeros in the right order.
+  Everyone knows that computers think in ones and zeros. Some people even think that programmers are busy just arranging ones and zeros in the right order.
 
-But when you write code directly, it is easy to forget the incredible simplicity of the final result.
+  But when you write code directly, it is easy to forget the incredible simplicity of the final result.
 
-While implementing another feature on their favorite web framework, a programmer may start to think that they are writing code in a web framework, not in the programming language of said web framework.
+  While implementing another feature on their favorite web framework, a programmer may start to think that they are writing code in a web framework, not in the programming language of said web framework.
 
-When writing a simple program in your favorite programming language, you rarely keep in mind that the programming language itself is just another program written in another, simpler, low-level programming language.
+  When writing a simple program in your favorite programming language, you rarely keep in mind that the programming language itself is just another program written in another, simpler, low-level programming language.
 
-And even that low-level language is written in a third language, and so on down to the bottom, to machine instructions, to ones and zeros, to physical signals and simple electricity of hardware.
+  And even that low-level language is written in a third language, and so on down to the bottom, to machine instructions, to ones and zeros, to physical signals and simple electricity of hardware.
 
-A good programmer understands how many layers of abstraction his code goes through before it turns into physical processes in the hardware of the computer.
+  A good programmer understands how many layers of abstraction his code goes through before it turns into physical processes in the hardware of the computer.
 
-Armed with this understanding, a programmer, like the heroes of "Night Watch", is able to jump between all levels to get to the bottom of any problem.
+  Armed with this understanding, a programmer, like the heroes of "Night Watch", is able to jump between all levels to get to the bottom of any problem.
 
 opinions:
   - body: |
-  The ability to compromise between simple and complex comes with experience. It becomes possible to implement complex things quite elegantly, relying on existing time-tested abstractions. Of course, sometimes it's also necessary to invent your own wheels: the main thing is to extract the maximum understanding of how the existing ones are arranged.
+      The ability to compromise between simple and complex comes with experience. It becomes possible to implement complex things quite elegantly, relying on existing time-tested abstractions. Of course, sometimes it's also necessary to invent your own wheels: the main thing is to extract the maximum understanding of how the existing ones are arranged.
 
-It is worth following the old UNIX philosophy of "do one thing and do it well". In the end, everything, no matter how magical it may seem, is a combination of simpler and more understandable things. A common mistake is either being too lazy to build a coherent and multilayered view of what these abstractions hide, or, on the contrary, not using their power.
-  author: risentveber
+      It is worth following the old UNIX philosophy of "do one thing and do it well". In the end, everything, no matter how magical it may seem, is a combination of simpler and more understandable things. A common mistake is either being too lazy to build a coherent and multilayered view of what these abstractions hide, or, on the contrary, not using their power.
+    author: risentveber
   - body: |
-  In the beginning most programmers stick to an idea that the more complex, larger and more versatile the creation is, the cooler it is. Most of them hold on to this belief even later in their career.
+      In the beginning most programmers stick to an idea that the more complex, larger and more versatile the creation is, the cooler it is. Most of them hold on to this belief even later in their career.
 
-Programmers with this belief start inventing and designing a system for millions of users, when all that was needed was to launch a new feature or test a service idea, not to make a new module to launch a rocket. Who needs a system for millions of users from the beginning?
+      Programmers with this belief start inventing and designing a system for millions of users, when all that was needed was to launch a new feature or test a service idea, not to make a new module to launch a rocket. Who needs a system for millions of users from the beginning?
 
-Commercial programming is not an art, it is about the ability to come up with a very simple and workable solution for the task at hand. Making complex things simple, and then simplifying them further, that's what's really cool.
-   author: baimurzin
+      Commercial programming is not an art, it is about the ability to come up with a very simple and workable solution for the task at hand. Making complex things simple, and then simplifying them further, that's what's really cool.
+    author: baimurzin

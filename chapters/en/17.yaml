@@ -1,12 +1,12 @@
 position: 17
 title: There Are No Dogmas
 body: |
-TDD fans will tell you that it is absolutely necessary to write tests before the code.
+  TDD fans will tell you that it is absolutely necessary to write tests before the code.
 
-Enthusiastic OOP practitioners will trash any code that does not follow the principles, approaches and philosophy of their favorite paradigm.
+  Enthusiastic OOP practitioners will trash any code that does not follow the principles, approaches and philosophy of their favorite paradigm.
 
-Advocates of functional programming will argue that only the functional approach makes sense, anything else should be at least embarrassing.
+  Advocates of functional programming will argue that only the functional approach makes sense, anything else should be at least embarrassing.
 
-Programmers have created a huge number of rules that they consider absolute: we need some certainty about what is good and what is bad when writing code.
+  Programmers have created a huge number of rules that they consider absolute: we need some certainty about what is good and what is bad when writing code.
 
-In reality, these rules are nothing more than a set of opinions about how you can and should write code. The code should work, ideally quickly, and preferably in a way that is easy to modify and extend in the future. All other "dogmas" are not dogmas. They may or may not be applicable for any particular project or program.
+  In reality, these rules are nothing more than a set of opinions about how you can and should write code. The code should work, ideally quickly, and preferably in a way that is easy to modify and extend in the future. All other "dogmas" are not dogmas. They may or may not be applicable for any particular project or program.

@@ -1,24 +1,25 @@
 position: 10
 title: Exciting vs. Highly Demanded
 body: |
-Sometimes it happens so that it is very interesting to study one set of technologies, but in your local market a completely different set of technologies is in demand.
+  Sometimes it happens so that it is very interesting to study one set of technologies, but in your local market a completely different set of technologies is in demand.
 
-For example, you can fall in love with Ruby at first sight, but face the harsh realities of the prevalence of PHP and Java jobs. What should you do? Learn what you want, or what is paid for?
+  For example, you can fall in love with Ruby at first sight, but face the harsh realities of the prevalence of PHP and Java jobs. What should you do? Learn what you want, or what is paid for?
 
-If you want to learn something hypothetically payable, and there is no urgent need to start earning right now, then there is no reason to deprive yourself of the pleasure of working with interesting technologies.
+  If you want to learn something hypothetically payable, and there is no urgent need to start earning right now, then there is no reason to deprive yourself of the pleasure of working with interesting technologies.
 
-If you want to learn something that's just on the market, or is initially of interest only to a few companies around the world, it's better to get a hold of more in-demand skills first.
+  If you want to learn something that's just on the market, or is initially of interest only to a few companies around the world, it's better to get a hold of more in-demand skills first.
 
-A programming career is a career where every day is filled with learning new concepts, technologies, and tools. Even if right now throwing yourself into uncharted waters of unmarketable skills is not reasonable, there will be years ahead during which you will have to try everything, one way or another.
+  A programming career is a career where every day is filled with learning new concepts, technologies, and tools. Even if right now throwing yourself into uncharted waters of unmarketable skills is not reasonable, there will be years ahead during which you will have to try everything, one way or another.
 
 opinions:
   - body: |
-  Basically, in any job you have you can learn what you are interested in, especially since different tools and technologies require an understanding of the same principles. The most valuable thing is not mastering a tool, but understanding how it works, which in turn will implicitly increase the speed of mastering a similar one. And then interest, like appetite comes during a meal, comes with mastering new knowledge. Are you sure that there are really no interesting things in old tools and technologies?
-  author: risentveber
+      Basically, in any job you have you can learn what you are interested in, especially since different tools and technologies require an understanding of the same principles. The most valuable thing is not mastering a tool, but understanding how it works, which in turn will implicitly increase the speed of mastering a similar one. And then interest, like appetite comes during a meal, comes with mastering new knowledge. Are you sure that there are really no interesting things in old tools and technologies?
+    author: risentveber
   - body: |
-  A developer must have a clear specialization, even if it's as broad as "full-stack" or "Web". It is specialization (in-depth understanding of an area or a specific technology) that is in demand on the market and brings money both to the developer and the company. Additional knowledge and skills are a plus, and can even be valued by the company and be expressed in a pay raise, but that's not a given.
+      A developer must have a clear specialization, even if it's as broad as "full-stack" or "Web". It is specialization (in-depth understanding of an area or a specific technology) that is in demand on the market and brings money both to the developer and the company. Additional knowledge and skills are a plus, and can even be valued by the company and be expressed in a pay raise, but that's not a given.
 
-Sometimes companies encourage self-development of the required skills by paying for courses, conferences, mitups, etc., and make plans for employee development... But intrinsic motivation and interest make us try and learn something else, and more often a developer has to update their knowledge at their own expense: spending all weekend with a book on C++, trying a new version of React on a pet project, or paying for a master class in data science, although all this does not help in their job in any way.
+      Sometimes companies encourage self-development of the required skills by paying for courses, conferences, mitups, etc., and make plans for employee development... But intrinsic motivation and interest make us try and learn something else, and more often a developer has to update their knowledge at their own expense: spending all weekend with a book on C++, trying a new version of React on a pet project, or paying for a master class in data science, although all this does not help in their job in any way.
     author: Vladas
+
 resources:
   - slug: 5-ways-to-make-your-work-more-fun
