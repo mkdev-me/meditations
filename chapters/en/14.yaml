@@ -15,13 +15,5 @@ body: |
   - Careful reading of texts by other people;
   - Constantly writing and rewriting their own texts.
 
-opinions:
-  - body: |
-      Do you want to know how a programmer writes code? Just look at how they write text.
-
-      There is a direct correlation between the way we write code and our qualities. In some ways, our writing style reflects what we have inside, order or chaos.
-
-      Why is this so? When we write code, we are constrained by codestyle and community guidelines. But when we write free text, it can feel like we have complete freedom. In my opinion, this is where our attitude to order comes into play: do we voluntarily want to write according to the "code style" of our language (spelling and punctuation rules, text formatting) or do we take the path of least resistance?
-    author: PasVV
 resources:
   - slug: the-three-types-of-programmers
