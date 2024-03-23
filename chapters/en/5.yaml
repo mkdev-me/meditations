@@ -1,5 +1,6 @@
 position: 5
 title:  You Should Write Documentation
+summary: Understand the critical role of documentation in programming, from capturing architecture to guiding future development efforts.
 body: |
   After the code, the second most important product of the developer's work is the documentation.
 

@@ -1,5 +1,6 @@
 position: 20
 title: Transient Code
+summary: Explore the transient nature of code.
 body: |
   The result of a programmer's work is not eternal. Either your code will be rewritten during refactoring or it will be simply removed along with the project's functionality you don't need anymore.
 

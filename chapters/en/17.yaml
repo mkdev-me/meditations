@@ -1,5 +1,6 @@
 position: 17
 title: There Are No Dogmas
+summary: Challenge the dogmas of programming, emphasizing the importance of flexibility and adaptability in coding practices.
 body: |
   TDD fans will tell you that it is absolutely necessary to write tests before the code.
 
