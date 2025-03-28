@@ -1,5 +1,6 @@
 position: 8
 title: The Quality vs. The Result Dilemma
+cover_alt_text: "Line art illustration showing a balance scale weighing code quality against delivery speed, with programming symbols on both sides"
 summary: Discover the importance of professional quirks, systemization, and maintaining code quality in the ever-evolving world of programming.
 body: |
   In the vast majority of cases, a developer writes code not for themself, but for their employer. An employer, in their turn, creates the product for an end user. So in fact, a developer writes code for an end user, who knows nothing about the code itself. User only cares about the product itself.

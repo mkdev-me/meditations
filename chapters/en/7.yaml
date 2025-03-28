@@ -1,5 +1,6 @@
 position: 7
 title: On Simplicity
+cover_alt_text: "Minimalist line drawing showing layers of abstraction from binary code to high-level programming, illustrating the concept of simplicity in complexity"
 summary: Explore the complexity of programming and the need for simplicity.
 body: |
   Everyone knows that computers think in ones and zeros. Some people even think that programmers are busy just arranging ones and zeros in the right order.

@@ -1,5 +1,6 @@
 position: 14
 title: On Writing
+cover_alt_text: "Line art depicting the fusion of code and prose, showing text documents and code snippets interweaving to create clear communication"
 summary: Understand why clear, intelligible writing is as important as coding skills for programmers, enabling effective communication and useful documentation.
 body: |
   A programmer must be able not only to write code, but to write any text.
@@ -12,6 +13,6 @@ body: |
 
   There are three mandatory components to developing a writing skill:
 
-  - Studying the literature on how to write texts. “On Writing Well” by William Zinsser is a must-read;
+  - Studying the literature on how to write texts. "On Writing Well" by William Zinsser is a must-read;
   - Careful reading of texts by other people;
   - Constantly writing and rewriting their own texts.

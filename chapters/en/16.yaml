@@ -1,5 +1,6 @@
 position: 16
 title: A Writing Developer vs. an Editing Developer
+cover_alt_text: "Line drawing showing split-screen view of a developer in two modes: freely writing code versus meticulously editing and refining it"
 summary: Learn the importance of separating the writing and editing processes in coding, fostering creativity and efficiency in programming.
 body: |
   A rule of thumb for good writing: you should strictly separate the writing process from the editing process. As soon as the material is written, the internal editor should be called back in and begin mercilessly rewriting, cutting, and deleting chunks of text. Writing and editing at the same time is one of the basic mistakes that kills creativity and inevitably leads to writer's block.

@@ -1,5 +1,6 @@
 position: 5
 title:  You Should Write Documentation
+cover_alt_text: "Line drawing of organized documentation pages with code snippets and architectural diagrams, illustrating the importance of well-maintained technical documentation"
 summary: Understand the critical role of documentation in programming, from capturing architecture to guiding future development efforts.
 body: |
   After the code, the second most important product of the developer's work is the documentation.
